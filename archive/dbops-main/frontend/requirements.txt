@@ -1,0 +1,10 @@
+# Streamlit Frontend Requirements
+streamlit>=1.28.0
+pandas>=2.0.0
+plotly>=5.15.0
+requests>=2.31.0
+
+# Already included in main project requirements.txt:
+# strands (for DatabaseAgent)
+# mcp (for MCP client)
+# boto3 (for AWS services)
